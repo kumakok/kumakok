@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**kumakok/kumakok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m HUANG He, a recent student with a Master’s in Computer Sciences about exploring the NLP and DATA.
 
-Here are some ideas to get you started:
+📚 Academic Highlights :
+Projects in Machine Learning, Deep Learning, Multilingual Model and so on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Toolkit :
+
+    Python, SQL, Linux, Javascript, HTML
+    Hands-on experience with NLP
+    Deep learning frameworks with HuggingFace
+    Data visualization
+
+Thank you for visiting my GitHub profile.
